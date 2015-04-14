@@ -1,2 +1,13 @@
 C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\DeskApp\DeskApp\bin\Debug\DeskApp.exe.config
 C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\bin\Debug\DeskApp.exe.config
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\bin\Debug\DeskApp.exe
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\bin\Debug\DeskApp.pdb
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.VentanaClientes.resources
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.VentanaOrdenes.resources
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.VentanaPartes.resources
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.VentanaPrincipal.resources
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.Properties.Resources.resources
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.csproj.GenerateResource.Cache
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.exe
+C:\Users\Saul\Documents\TEC\2015 - Semestre I\Bases de Datos 1\Proyectos\Proyecto 1\Proyecto1_BD1_2015\DeskApp\DeskApp\obj\Debug\DeskApp.pdb

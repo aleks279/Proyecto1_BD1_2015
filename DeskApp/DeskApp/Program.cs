@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace DeskApp
 {
@@ -17,6 +18,10 @@ namespace DeskApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new VentanaPrincipal());
+
+            SqlConnection connection = new SqlConnection();
+            connection.ConnectionString = "Data Source=SAUL-PC;Initial Catalog=Proyecto1;Integrated Security=True";
+            connection.Open();
         }
     }
 }
